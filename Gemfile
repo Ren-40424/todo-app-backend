@@ -47,3 +47,4 @@ end
 
 gem 'mysql2', '>= 0.5'
 gem 'dotenv-rails'
+gem 'rack-cors'
